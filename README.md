@@ -14,11 +14,11 @@ By clicking the Submit button we will launch these fields and they will become a
 
 By clicking on the Clear button, we will clear the form and we can refill it as we wish.
 
-<img src="client/src/images/Form.png" width="600px" height="400px">
+<img src="client/src/images/Form.png" width="400px" height="60000px">
 
 ## Post
 
-<img src="client/src/images/Post.png" width="600px" height="400px">
+<img src="client/src/images/Post.png" width="400px" height="600px">
 
 ### Edit existing post
 By clicking on the 3 dots on the top right of the post, the post details will be automatically filled in the form and we can change the form as we wish.
