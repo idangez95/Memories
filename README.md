@@ -6,6 +6,7 @@ Technologies: React, Redux, NodeJS, express, mongoDB, mongoose, HTML, CSS, Mater
 
 <img src="client/src/images/FullScreen.png" width="600px" height="400px">
 
+
 ## Form
 In the form we fill in the following fields:
 Creator, title, message, tags. In addition, there is an option to upload an image.
@@ -16,9 +17,11 @@ By clicking on the Clear button, we will clear the form and we can refill it as 
 
 <img src="client/src/images/Form.png" width="400px" height="600px">
 
+
 ## Post
 
 <img src="client/src/images/Post.png" width="400px" height="600px">
+
 
 ### Edit existing post
 By clicking on the 3 dots on the top right of the post, the post details will be automatically filled in the form and we can change the form as we wish.
