@@ -11,8 +11,10 @@ Technologies: React, Redux, NodeJS, express, mongoDB, mongoose, HTML, CSS, Mater
 In the form we fill in the following fields:
 Creator, title, message, tags. In addition, there is an option to upload an image.
 
+### Submit button
 By clicking the Submit button we will launch these fields and they will become a post.
 
+### Clear button
 By clicking on the Clear button, we will clear the form and we can refill it as we wish.
 
 <img src="client/src/images/Form.png" width="400px" height="600px">
