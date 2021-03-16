@@ -4,17 +4,21 @@ This app allows us to share memories with our friends.
 
 Technologies: React, Redux, NodeJS, express, mongoDB, mongoose, HTML, CSS, Material-UI.
 
+![image](client/src/images/FullScreen.png | width=300, margin-left=30%)
+
 ## Form
 In the form we fill in the following fields:
 Creator, title, message, tags. In addition, there is an option to upload an image.
+
 By clicking the Submit button we will launch these fields and they will become a post.
+
 By clicking on the Clear button, we will clear the form and we can refill it as we wish.
 
-![Image](client/src/images/Form.png)
+![Image](client/src/images/Form.png | width=300, margin-left=30%)
 
 ## Post
 
-![Image](client/src/images/Post.png)
+![Image](client/src/images/Post.png | width=300, margin-left=30%)
 
 ### Edit existing post
 By clicking on the 3 dots on the top right of the post, the post details will be automatically filled in the form and we can change the form as we wish.
