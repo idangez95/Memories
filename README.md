@@ -1,4 +1,4 @@
-# My First React Project: Memories App
+# React Project: Memories App
 
 This app allows us to share memories with our friends.
 
