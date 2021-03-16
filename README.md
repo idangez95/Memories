@@ -4,7 +4,7 @@ This app allows us to share memories with our friends.
 
 Technologies: React, Redux, NodeJS, express, mongoDB, mongoose, HTML, CSS, Material-UI.
 
-![image](client/src/images/FullScreen.png){:width="300px" margin-left="30%"}
+<img src="client/src/images/FullScreen.png" width="300px" margin-left="30%>
 
 ## Form
 In the form we fill in the following fields:
