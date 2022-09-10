@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const url = 'https://mini-memories.herokuapp.com/posts'
+const url = 'https://mini-memories.netlify.app/posts'
 
 export const fetchPosts = () => axios.get(url)
 export const createPost = (newPost) => axios.post(url, newPost)
