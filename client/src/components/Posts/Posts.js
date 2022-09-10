@@ -15,7 +15,7 @@ const Posts = ({setCurrentId}) => {
             <Grid className={classes.container} container alignItems="stretch" spacing={3}>
                 {posts?.map((post) => (
                     // eslint-disable-next-line react/jsx-no-duplicate-props
-                    <Grid item key={post._id} item xs={12} sm={6}> 
+                    <Grid item key={post._id} xs={12} sm={6}> 
                         <Post post={post} setCurrentId={setCurrentId} />
                     </Grid>
                 ))}
