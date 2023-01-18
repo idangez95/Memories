@@ -35,3 +35,6 @@ We can add likes as we like to the post.
 
 ### Delete button
 Clicking the Delete button will delete the post immediately from the database so it will no longer appear on the site.
+
+### Deployed Site
+[Here is the link to deployed site](https://idan-mini-memories.netlify.app/)
